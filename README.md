@@ -16,11 +16,8 @@ Technical Skills:
 + Linux, Ubuntu, Bash Shell, Ansible
 - Cloud Infrastructure:
 + AWS(IaaS, PaaS, SaaS, CLI/API), Auto Scaling, EC2, ELB, EFS, Route 53, and Amazon S3.
-- Servers
 + Apache HTTP Server, Load Balancing & Failover, MySQL, NFS.
-- Networking 
 + Network on AWS, VPN, Ping, Protocol, VPC, Transit Gateway, VPC Peering,...
-- Containerization
 + Docker, AWS ECR, ECS, EKS, Hashicorp, Kubernetes...
 - Proficient in Computer Vision, NLP (Natural Language Processing), WordPress, Photoshop, Figma, HTML/CSS, Bootstrap, Tailwind CSS, Javascript, and Python.
 - Passionate and love to work with UI/UX to make a beautiful product.
