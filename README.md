@@ -1,4 +1,4 @@
-- 👋 ### Hola, I'm Van Hoang Kha 👋
+### Hola, I'm Van Hoang Kha 👋
 - 👀 I’m interested in AWS, Machine Learning / AI and DevOps.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on [First Cloud Journey](https://cloudjourney.awsstudygroup.com/)
