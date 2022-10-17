@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanHoangKha
+- 👋 ### Hola, I'm Van Hoang Kha 👋
 - 👀 I’m interested in AWS, Machine Learning / AI and DevOps.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on [First Cloud Journey](https://cloudjourney.awsstudygroup.com/)
@@ -26,6 +26,31 @@ Technical Skills:
 - Email: khab9thd@gmail.com.
 - Github: https://github.com/Van-Hoang-Kha.
 - Facebook: https://www.facebook.com/profile.php?id=100040398945093
+
+<a href="https://www.linkedin.com/in/van-hoang-kha">
+  <img align="left" alt="Van Hoang 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/AlphaGo_14">
+  <img align="left" alt="Van Hoang Kha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/Van-Hoang-Kha">
+  <img align="left" alt="Van Hoang Kha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Van Hoang Kha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/hoangggkhaaa">
+  <img align="left" alt="Van Hoang Kha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100040398945093">
+  <img align="left" alt="Van Hoang Kha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Van Hoang Kha's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
 
 **Languages and Tools:**  
 
