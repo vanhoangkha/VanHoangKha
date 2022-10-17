@@ -12,9 +12,7 @@
 - Good understanding of Infrastructure as Code (Programmable Infrastructure), and how I can achieve that by using tools like CloudFormation, Terraform, Pulumi, Puppet, Chef, Ansible, etc.
 - Hands-on knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm.
 Technical Skills: 
-- System Administration:
 + Linux, Ubuntu, Bash Shell, Ansible
-- Cloud Infrastructure:
 + AWS(IaaS, PaaS, SaaS, CLI/API), Auto Scaling, EC2, ELB, EFS, Route 53, and Amazon S3.
 + Apache HTTP Server, Load Balancing & Failover, MySQL, NFS.
 + Network on AWS, VPN, Ping, Protocol, VPC, Transit Gateway, VPC Peering,...
