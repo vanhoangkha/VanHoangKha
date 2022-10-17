@@ -29,3 +29,25 @@ Technical Skills:
 - Email: khab9thd@gmail.com.
 - Github: https://github.com/Van-Hoang-Kha.
 - Facebook: https://www.facebook.com/profile.php?id=100040398945093
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+<div align="center">
+  <a href="https://github.com/Van-Hoang-Kha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Van-Hoang-Kha&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+
+</div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark">
+  </div>
+  <h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=Van-Hoang-Kha&theme=nord&column=7" >
