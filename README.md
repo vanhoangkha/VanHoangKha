@@ -35,31 +35,47 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)
 
-## 🚀 Featured Migration Projects
+## 🚀 Featured Projects & Repositories
 
-### 🏦 Tier-1 Banking Migration (60TB)
-**Challenge**: Migrate 60TB Oracle banking system with zero data loss  
-**Solution**: AWS DMS + Direct Connect + RMAN parallel streams  
-**Result**: 35% cost reduction, <2hr RTO achieved, full compliance  
-**Tech Stack**: Oracle 19c → RDS, DMS, GoldenGate, Direct Connect
+### 🤖 AI & Innovation
+[![Nova Act](https://img.shields.io/badge/🤖_Amazon_Nova_Act-Research_Preview-FF9900?style=for-the-badge)](https://github.com/vanhoangkha/nova-act)
+**Amazon Nova Act**: AI model for developers to build agents that take actions in web browsers  
+*Research preview of cutting-edge AI automation technology*
 
-### 🌏 Vietnam Banking Compliance
-**Challenge**: SBV regulatory compliance + data residency requirements  
-**Solution**: Multi-AZ RDS with encryption, VPC isolation  
-**Result**: Full regulatory approval, 99.99% availability  
-**Tech Stack**: RDS Multi-AZ, KMS, CloudTrail, Config
+[![DevMentor AI](https://img.shields.io/badge/🧠_DevMentor_AI-AI_Mentoring-blue?style=for-the-badge)](https://github.com/vanhoangkha/DevMentor-AI)
+**DevMentor AI**: Intelligent mentoring system for developers  
+*AI-powered guidance and learning assistance*
 
-### 📊 Real-time Data Replication
-**Challenge**: Continuous sync for 35+ Oracle instances  
-**Solution**: DMS + GoldenGate bidirectional replication  
-**Result**: <5min RPO, zero business disruption  
-**Tech Stack**: DMS, GoldenGate, CloudWatch, Lambda
+### ☁️ AWS Community & Education
+[![AWS First Cloud Journey](https://img.shields.io/badge/☁️_AWS_First_Cloud_Journey-12_⭐-FF9900?style=for-the-badge)](https://github.com/vanhoangkha/AWS-First-Cloud-Journey)
+**AWS First Cloud Journey**: Complete AWS learning path for beginners  
+*45K+ community members' primary learning resource*
 
-### 🔧 Infrastructure as Code
-**Challenge**: Standardize deployment across multiple environments  
-**Solution**: Terraform modules for AWS banking architecture  
-**Result**: 80% faster deployment, consistent configurations  
-**Tech Stack**: Terraform, AWS Config, Systems Manager
+[![AWS Free Tier Guide](https://img.shields.io/badge/💰_AWS_Free_Tier-7_⭐-green?style=for-the-badge)](https://github.com/vanhoangkha/AWS-Free-Tier)
+**AWS Free Tier Optimization**: Maximize AWS free tier benefits  
+*Cost optimization strategies for startups and learners*
+
+[![Event Operations Handbook](https://img.shields.io/badge/📚_Event_Operations-4_⭐-orange?style=for-the-badge)](https://github.com/vanhoangkha/EVENT-OPERATIONS-HANDBOOK)
+**Event Operations Handbook**: AWS community event management  
+*Best practices for running large-scale tech events*
+
+### 🏗️ Infrastructure & Architecture
+[![EKS Cross-Account EFS](https://img.shields.io/badge/🔧_EKS_Cross_Account_EFS-1_⭐-blue?style=for-the-badge)](https://github.com/vanhoangkha/mount-amazon-efs-file-systems-cross-account-from-amazon-eks)
+**Cross-Account EFS for EKS**: Advanced Kubernetes storage solutions  
+*Enterprise-grade multi-account EKS architecture*
+
+[![Workshop Studio](https://img.shields.io/badge/🎯_Workshop_Studio-Shell-yellow?style=for-the-badge)](https://github.com/vanhoangkha/workshop-studio)
+**Workshop Studio**: Automated workshop deployment infrastructure  
+*Scalable training environment provisioning*
+
+### 💻 Applications & Demos
+[![AWS Certification App](https://img.shields.io/badge/📱_AWS_Cert_App-TypeScript-blue?style=for-the-badge)](https://github.com/vanhoangkha/AWS-Certification-App)
+**AWS Certification App**: Interactive certification preparation  
+*TypeScript-based learning platform*
+
+[![LMS Demo](https://img.shields.io/badge/🎓_LMS_Demo-JavaScript-yellow?style=for-the-badge)](https://github.com/vanhoangkha/LMS-sample-demo)
+**Learning Management System**: Educational platform demo  
+*Full-stack JavaScript learning solution*
 
 ## 📈 Proven Results
 ```
@@ -72,12 +88,13 @@
 🚀 ROI: 594% three-year return on investment
 ```
 
-## 🌐 Thought Leadership & Community
+## 🌐 Community Impact & Leadership
 📝 **Blog**: [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com)  
 🎤 **Speaking**: AWS re:Invent, Banking Technology Summits  
-📚 **Mentoring**: AWS Study Group Vietnam - Migration Track Leader  
-📖 **Publications**: Oracle-to-AWS Migration Best Practices  
-🤝 **Community**: AWS APN Migration Competency Partner
+📚 **Community**: Built 45K+ member AWS Study Group Vietnam  
+📖 **Open Source**: 98 public repositories with 25+ stars  
+🏆 **Recognition**: AWS APJ Community Leaders 2024 Winner  
+🤝 **Mentoring**: AWS Community Builder & Event Operations Leader
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanhoangkha)
