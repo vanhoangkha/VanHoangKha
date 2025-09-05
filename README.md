@@ -35,13 +35,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)
 
-## 🎖️ Certifications & Achievements
-- 🏅 AWS Solutions Architect Professional
-- 🏅 AWS Database Specialty
-- 🏅 Oracle Certified Professional (OCP)
-- 🏅 AWS Migration Competency Partner
-- 📚 AWS Community Builder - Migration & Modernization
-
 ## 🚀 Featured Migration Projects
 
 ### 🏦 Tier-1 Banking Migration (60TB)
@@ -51,7 +44,7 @@
 **Tech Stack**: Oracle 19c → RDS, DMS, GoldenGate, Direct Connect
 
 ### 🌏 Vietnam Banking Compliance
-**Challenge**: SBV regulatory compliance + data residency  
+**Challenge**: SBV regulatory compliance + data residency requirements  
 **Solution**: Multi-AZ RDS with encryption, VPC isolation  
 **Result**: Full regulatory approval, 99.99% availability  
 **Tech Stack**: RDS Multi-AZ, KMS, CloudTrail, Config
@@ -62,6 +55,12 @@
 **Result**: <5min RPO, zero business disruption  
 **Tech Stack**: DMS, GoldenGate, CloudWatch, Lambda
 
+### 🔧 Infrastructure as Code
+**Challenge**: Standardize deployment across multiple environments  
+**Solution**: Terraform modules for AWS banking architecture  
+**Result**: 80% faster deployment, consistent configurations  
+**Tech Stack**: Terraform, AWS Config, Systems Manager
+
 ## 📈 Proven Results
 ```
 🏢 Enterprise Migrations: 15+ successful Oracle → AWS projects
@@ -70,13 +69,15 @@
 🔒 Compliance: 100% regulatory approval rate
 📊 Data Volume: 500TB+ total data migrated
 ⏱️  Downtime: Average <2 hours for 60TB+ systems
+🚀 ROI: 594% three-year return on investment
 ```
 
-## 🌐 Thought Leadership
+## 🌐 Thought Leadership & Community
 📝 **Blog**: [AWS Cloud Journey](https://cloudjourney.awsstudygroup.com)  
 🎤 **Speaking**: AWS re:Invent, Banking Technology Summits  
 📚 **Mentoring**: AWS Study Group Vietnam - Migration Track Leader  
-📖 **Publications**: Oracle-to-AWS Migration Best Practices
+📖 **Publications**: Oracle-to-AWS Migration Best Practices  
+🤝 **Community**: AWS APN Migration Competency Partner
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanhoangkha)
