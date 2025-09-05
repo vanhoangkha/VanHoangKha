@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Van Hoang Kha
-## Senior Cloud Solutions Architect | Oracle-to-AWS Migration Specialist
+## AI and Cloud Solutions Architect | AWS APJ Community Leaders 2024 Winner | Built 45K+ AWS Community | AWS Community Builder
 
 🚀 **Leading enterprise-scale Oracle migrations to AWS with 60TB+ data volumes and zero-downtime requirements**
 
