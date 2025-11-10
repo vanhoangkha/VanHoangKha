@@ -214,6 +214,40 @@ Primary learning resource enabling 45K+ community members to master AWS
 
 ---
 
+## 🎨 Portfolio Website
+
+<div align="center">
+
+![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-yellow?style=for-the-badge&logo=rocket)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+
+</div>
+
+### 🚀 Full-Stack Serverless Portfolio v2.0
+A production-ready showcase of cloud architecture, AI/ML, and DevSecOps expertise built with modern AWS technologies.
+
+**Tech Stack & Architecture:**
+- 🏗️ **Monorepo Architecture** - International standard project structure
+- ☁️ **AWS Amplify Gen 2** - Full-stack serverless deployment
+- 🎨 **Modern Frontend** - Responsive, accessible, performance-optimized
+- 🔧 **Infrastructure as Code** - AWS CDK & Amplify
+- 🤖 **AI-Powered Features** - Amazon Bedrock integration
+- 📊 **Real-time Analytics** - CloudWatch & custom dashboards
+- 🔒 **Enterprise Security** - AWS IAM, Cognito, best practices
+- 🚀 **CI/CD Pipeline** - Automated testing & deployment
+
+**Highlights:**
+- 💼 Showcase of 55+ enterprise solutions and case studies
+- 🏆 Interactive demonstrations of AWS architecture patterns
+- 📚 Technical blog integration with 5M+ reads
+- 🎯 GenAI projects and Bedrock implementations
+- 📈 Performance metrics and cost optimization insights
+
+**Coming Soon:** Live portfolio website will be available soon! 🎉
+
+---
+
 ## 🎤 Speaking & Events
 
 <div align="center">
@@ -314,6 +348,7 @@ I'm always happy to connect with fellow cloud enthusiasts, developers, and archi
 
 ## 🎯 Goals for 2025
 
+- [ ] 🎨 Launch production-ready portfolio website with AWS Amplify
 - [ ] 🌟 Grow AWS community to 60,000+ members
 - [ ] 🎤 Speak at 10+ international AWS events
 - [ ] 📚 Publish comprehensive GenAI course
