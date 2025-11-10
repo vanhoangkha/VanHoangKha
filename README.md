@@ -316,31 +316,37 @@ timeline
 <td width="50%">
 
 #### 🏦 Banking & Financial Services
-- Core banking system migration to AWS
-- Real-time fraud detection with ML
-- PCI-DSS compliant infrastructure
-- 99.99% uptime SLA achievement
+- 💳 Core banking system migration to AWS
+- 🔒 Real-time fraud detection with ML
+- 🛡️ PCI-DSS compliant infrastructure
+- ⚡ 99.99% uptime SLA achievement
+- 📊 Risk analytics and compliance automation
 
 #### 🏭 Manufacturing
-- IoT data pipeline on AWS
-- Predictive maintenance with AI/ML
-- Supply chain optimization
-- 40% operational cost reduction
+- 🔧 IoT data pipeline on AWS
+- 🤖 Predictive maintenance with AI/ML
+- 📦 Supply chain optimization
+- 💰 40% operational cost reduction
+- 📈 Real-time production monitoring
 
 </td>
 <td width="50%">
 
 #### 🛒 FMCG & Retail
-- E-commerce platform on AWS
-- Inventory management with ML
-- Serverless order processing
-- 60% infrastructure cost savings
+- 🛍️ E-commerce platform on AWS
+- 📦 Inventory management with ML
+- ⚡ Serverless order processing
+- 💰 60% infrastructure cost savings
+- 📊 Real-time sales analytics
+- 🤖 AI-powered demand forecasting
 
 #### 🏛️ Public Sector
-- Government portal modernization
-- Secure data lake implementation
-- Compliance with local regulations
-- 50% support ticket reduction with GenAI
+- 🌐 Government portal modernization
+- 🔒 Secure data lake implementation
+- ✅ Compliance with local regulations
+- 📉 50% support ticket reduction with GenAI
+- 🤖 AI-powered citizen services
+- 🛡️ Advanced security and governance
 
 </td>
 </tr>
@@ -374,11 +380,13 @@ The largest AWS learning platform in Southeast Asia, providing comprehensive clo
 - 💼 **1,000+** job placements enabled
 
 **🎯 Key Features:**
-- Complete AWS certification preparation paths
-- Hands-on labs with real AWS services
-- Well-Architected Framework implementations
-- Vietnamese and English content
-- Integration with AWS Study Group community
+- 📝 Complete AWS certification preparation paths
+- 🔬 Hands-on labs with real AWS services
+- 🏗️ Well-Architected Framework implementations
+- 🌏 Vietnamese and English bilingual content
+- 🤝 Integration with AWS Study Group community
+- 🎥 Video tutorials and live coding sessions
+- 💬 Q&A forums and peer learning
 
 **🚀 Technologies:** AWS Amplify, DynamoDB, CloudFront, Cognito, Lambda
 
@@ -396,11 +404,13 @@ Next-generation agentic AI platform enabling intelligent automation for complex 
 - 🔄 Real-time collaboration between AI agents
 
 **🎯 Key Features:**
-- Autonomous AI agents for data analysis
-- Multi-agent collaboration framework
-- Integration with Amazon Bedrock
-- Real-time streaming and orchestration
-- Enterprise-grade security and compliance
+- 🧠 Autonomous AI agents for data analysis
+- 🤝 Multi-agent collaboration framework
+- 🔗 Integration with Amazon Bedrock
+- ⚡ Real-time streaming and orchestration
+- 🔐 Enterprise-grade security and compliance
+- 📊 Advanced analytics and insights
+- 🎯 Task automation and workflow optimization
 
 **🚀 Technologies:** Amazon Bedrock, LangChain, AWS Step Functions, DynamoDB Streams
 
@@ -418,11 +428,13 @@ AI-powered financial document processing and audit automation platform for banki
 - 💰 **$500K+** annual cost savings per organization
 
 **🎯 Key Features:**
-- Intelligent document understanding with Amazon Bedrock
-- Automated compliance checking and reporting
-- Real-time fraud detection patterns
-- Multi-language support (English, Vietnamese)
-- Regulatory compliance (Basel III, IFRS)
+- 📄 Intelligent document understanding with Amazon Bedrock
+- ✅ Automated compliance checking and reporting
+- 🚨 Real-time fraud detection patterns
+- 🌐 Multi-language support (English, Vietnamese)
+- 📋 Regulatory compliance (Basel III, IFRS)
+- 🔍 Advanced OCR and data extraction
+- 📊 Risk assessment and scoring
 
 **🚀 Technologies:** Amazon Bedrock, Textract, Comprehend, Lambda, Step Functions
 
@@ -441,10 +453,12 @@ Enterprise-scale cloud migration for Chubb Life Insurance, transforming legacy i
 - 📈 **99.99%** uptime SLA achievement
 
 **🎯 Scope:**
-- 50+ applications migrated to AWS
-- 25TB+ data transferred
-- Multi-region disaster recovery setup
-- PCI-DSS and SOC2 compliance maintained
+- 📦 **50+ applications** migrated to AWS
+- 💾 **25TB+ data** transferred securely
+- 🌍 Multi-region disaster recovery setup
+- 🛡️ PCI-DSS and SOC2 compliance maintained
+- 🔄 Zero-downtime cutover strategy
+- 👥 Cross-functional team coordination
 
 **🚀 Technologies:** AWS Migration Hub, Database Migration Service, Application Migration Service
 
@@ -463,11 +477,13 @@ Comprehensive resource for building production-ready generative AI applications 
 - 📖 Featured in AWS official documentation
 
 **🎯 Key Contributions:**
-- RAG architecture implementation patterns
-- Multi-agent system designs
-- Guardrails and safety implementations
-- Cost optimization strategies
-- Production deployment guides
+- 🏗️ RAG architecture implementation patterns
+- 🤖 Multi-agent system designs
+- 🛡️ Guardrails and safety implementations
+- 💰 Cost optimization strategies
+- 🚀 Production deployment guides
+- 📖 Comprehensive documentation
+- 🎓 Step-by-step tutorials
 
 **🚀 Technologies:** Amazon Bedrock, LangChain, OpenSearch, DynamoDB
 
@@ -486,11 +502,13 @@ Co-founded and lead the largest AWS community in Vietnam, fostering cloud adopti
 - 🌟 Recognized as **AWS Community Leaders 2024**
 
 **🎯 Community Activities:**
-- Weekly technical meetups and workshops
-- Monthly AWS architecture reviews
-- Quarterly hackathons and competitions
-- Certification study groups
-- Job placement assistance
+- 📅 Weekly technical meetups and workshops
+- 🏗️ Monthly AWS architecture reviews
+- 🏆 Quarterly hackathons and competitions
+- 🎓 Certification study groups
+- 💼 Job placement assistance
+- 🎤 Guest speaker sessions
+- 🌟 Community recognition programs
 
 **🚀 Programs:** First Cloud Journey, Special Force Portal, Community Day Vietnam
 
@@ -509,11 +527,13 @@ Internal platform for AWS Study Group community, providing advanced learning res
 - 💼 Career advancement tracking
 
 **🎯 Key Features:**
-- Advanced AWS certification preparation
-- Expert mentorship program matching
-- Technical challenge competitions
-- Career progression tracking
-- Community contribution recognition
+- 🎓 Advanced AWS certification preparation
+- 👥 Expert mentorship program matching
+- 🏅 Technical challenge competitions
+- 📈 Career progression tracking
+- ⭐ Community contribution recognition
+- 🎯 Personalized learning paths
+- 💬 Peer-to-peer knowledge sharing
 
 **🚀 Technologies:** AWS Amplify Gen 2, AppSync, DynamoDB, Cognito, Lambda
 
@@ -537,32 +557,39 @@ Internal platform for AWS Study Group community, providing advanced learning res
 <td width="50%">
 
 #### 🏗️ Architecture & Infrastructure
-- **Monorepo Structure** - International standard organization
-- **AWS Amplify Gen 2** - Full-stack serverless platform
-- **Infrastructure as Code** - AWS CDK & Amplify CLI
-- **CI/CD Pipeline** - Automated testing & deployment
-- **Multi-Environment** - Dev, staging, production
+- 📦 **Monorepo Structure** - International standard organization
+- ⚡ **AWS Amplify Gen 2** - Full-stack serverless platform
+- 🛠️ **Infrastructure as Code** - AWS CDK & Amplify CLI
+- 🚀 **CI/CD Pipeline** - Automated testing & deployment
+- 🌍 **Multi-Environment** - Dev, staging, production
+- 🔐 **Security First** - Best practices implementation
 
 #### 🤖 AI-Powered Features
-- **Amazon Bedrock Integration** - AI chatbot assistance
-- **Content Generation** - Automated case study summaries
-- **Semantic Search** - Find relevant projects instantly
-- **Personalization** - ML-powered recommendations
+- 💬 **Amazon Bedrock Integration** - AI chatbot assistance
+- ✍️ **Content Generation** - Automated case study summaries
+- 🔍 **Semantic Search** - Find relevant projects instantly
+- 🎯 **Personalization** - ML-powered recommendations
+- 🧠 **Smart Analytics** - AI-driven insights
+- 🌐 **Multi-language Support** - Global accessibility
 
 </td>
 <td width="50%">
 
 #### 🎨 Frontend Excellence
-- **Responsive Design** - Mobile-first approach
-- **Performance Optimized** - Core Web Vitals optimized
-- **Accessibility** - WCAG 2.1 AA compliant
-- **Modern UX** - Smooth animations & transitions
+- 📱 **Responsive Design** - Mobile-first approach
+- ⚡ **Performance Optimized** - Core Web Vitals optimized
+- ♿ **Accessibility** - WCAG 2.1 AA compliant
+- 🎭 **Modern UX** - Smooth animations & transitions
+- 🌓 **Dark Mode** - User preference support
+- 🎨 **Design System** - Consistent UI components
 
 #### 📊 Analytics & Insights
-- **Real-time Dashboards** - CloudWatch integration
-- **Performance Metrics** - Custom business KPIs
-- **Visitor Analytics** - Privacy-focused tracking
-- **Cost Optimization** - FinOps implementation
+- 📈 **Real-time Dashboards** - CloudWatch integration
+- 🎯 **Performance Metrics** - Custom business KPIs
+- 👥 **Visitor Analytics** - Privacy-focused tracking
+- 💰 **Cost Optimization** - FinOps implementation
+- 📉 **Error Monitoring** - Proactive issue detection
+- 🔔 **Smart Alerts** - Automated notifications
 
 </td>
 </tr>
@@ -626,10 +653,12 @@ Internal platform for AWS Study Group community, providing advanced learning res
 
 ### 🎓 Workshop & Training Sessions
 
-- **Enterprise Cloud Architecture Workshop** - 8+ sessions, 500+ participants
-- **GenAI with Amazon Bedrock** - Hands-on training series
-- **AWS Well-Architected Framework** - Deep-dive sessions
-- **Cost Optimization Strategies** - Executive briefings
+- 🏗️ **Enterprise Cloud Architecture Workshop** - 8+ sessions, 500+ participants
+- 🤖 **GenAI with Amazon Bedrock** - Hands-on training series
+- 📐 **AWS Well-Architected Framework** - Deep-dive sessions
+- 💰 **Cost Optimization Strategies** - Executive briefings
+- 🔐 **Security Best Practices** - Hands-on labs
+- 🚀 **DevOps & CI/CD** - Modern deployment patterns
 
 </div>
 
@@ -711,23 +740,25 @@ Internal platform for AWS Study Group community, providing advanced learning res
 <td width="50%">
 
 #### 📊 Quantitative Metrics
-- **45,000+** active community members
-- **5,000+** engineers upskilled
-- **1,000+** job placements enabled
-- **500+** AWS certifications achieved
-- **5M+** content reach (articles, videos, posts)
-- **100+** community events organized
+- 👥 **45,000+** active community members
+- 🎓 **5,000+** engineers upskilled
+- 💼 **1,000+** job placements enabled
+- 🏆 **500+** AWS certifications achieved
+- 📈 **5M+** content reach (articles, videos, posts)
+- 🎉 **100+** community events organized
+- 🌟 **50+** technical workshops delivered
 
 </td>
 <td width="50%">
 
 #### 🎯 Qualitative Impact
-- Primary AWS learning resource in APAC
-- Enabler for career transitions to cloud
-- Bridge between AWS and local communities
-- Mentor for 100+ aspiring architects
-- Advocate for cloud adoption in enterprises
-- Champion of diversity in tech
+- 🌏 Primary AWS learning resource in APAC
+- 🚀 Enabler for career transitions to cloud
+- 🌉 Bridge between AWS and local communities
+- 👨‍🏫 Mentor for 100+ aspiring architects
+- 📣 Advocate for cloud adoption in enterprises
+- 🌈 Champion of diversity in tech
+- 🤝 Building collaborative tech ecosystems
 
 </td>
 </tr>
