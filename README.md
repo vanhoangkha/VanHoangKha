@@ -1,19 +1,19 @@
 <!-- SEO Meta Tags -->
 <!-- 
-Title: Kha Van Hoang - AWS Security Specialist | Cloud Security Engineer | Security Foundations Expert
-Description: AWS Security Specialist with expertise in Security Foundations, IAM, Detection, Infrastructure Protection, Data Protection, Incident Response, and Application Security. AWS Security Specialty certified.
-Keywords: AWS Security Specialist, Security Foundations, Identity Access Management, Threat Detection, Infrastructure Protection, Data Protection, Incident Response, Application Security, AWS Security Specialty
+Title: Kha Van Hoang - Cloud Security Engineer | Security Foundations Expert
+Description: Cloud Security Engineer with expertise in Security Foundations, IAM, Detection, Infrastructure Protection, Data Protection, Incident Response, and Application Security.
+Keywords: Cloud Security Engineer, Security Foundations, Identity Access Management, Threat Detection, Infrastructure Protection, Data Protection, Incident Response, Application Security
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn" width="100%" alt="Kha Van Hoang - AWS Security Specialist"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn" width="100%" alt="Kha Van Hoang - Cloud Security Engineer"/>
 </div>
 
-<h1 align="center">AWS Security Specialist | Cloud Security Engineer</h1>
+<h1 align="center">Cloud Security Engineer</h1>
 <h3 align="center">Security Foundations • IAM • Detection • Infrastructure Protection • Data Protection • Incident Response • Application Security</h3>
 
 <p align="center">
-  <strong>AWS Security Specialty Certified</strong> | <strong>5+ Years Experience</strong> | <strong>50+ Security Implementations</strong>
+  <strong>5+ Years Experience</strong> | <strong>50+ Security Implementations</strong> | <strong>75% Incident Reduction</strong>
 </p>
 
 <p align="center">
@@ -35,25 +35,25 @@ Keywords: AWS Security Specialist, Security Foundations, Identity Access Managem
 
 ---
 
-## 👨‍💻 AWS Security Specialist
+## 👨‍💻 Cloud Security Engineer
 
-**AWS Security Specialty certified** professional with deep expertise across all AWS security domains. Specialized in implementing comprehensive security solutions following AWS Well-Architected Framework security pillar.
+Professional **Cloud Security Engineer** with deep expertise across all security domains. Specialized in implementing comprehensive security solutions following industry best practices and security frameworks.
 
 ```typescript
-const awsSecuritySpecialist = {
+const cloudSecurityEngineer = {
     name: "Kha Van Hoang",
-    role: "AWS Security Specialist",
+    role: "Cloud Security Engineer",
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    certification: "AWS Security Specialty",
+    experience: "5+ years",
     
     securityDomains: {
-        "Security Foundations": "Shared Responsibility Model, AWS Organizations, Control Tower",
-        "Identity & Access Management": "IAM, Cognito, SSO, Directory Service",
-        "Detection": "GuardDuty, Security Hub, Detective, CloudWatch",
-        "Infrastructure Protection": "VPC, WAF, Shield, Network Firewall",
-        "Data Protection": "KMS, CloudHSM, Secrets Manager, Macie",
-        "Incident Response": "Systems Manager, EventBridge, Step Functions",
-        "Application Security": "API Gateway, Cognito, Certificate Manager"
+        "Security Foundations": "Governance, Multi-account Strategy, Compliance",
+        "Identity & Access Management": "IAM, SSO, Federation, Zero Trust",
+        "Detection": "Threat Detection, Security Monitoring, SIEM",
+        "Infrastructure Protection": "Network Security, DDoS Protection, Firewalls",
+        "Data Protection": "Encryption, Key Management, Data Classification",
+        "Incident Response": "Automation, Playbooks, Forensics",
+        "Application Security": "API Security, DevSecOps, Container Security"
     },
     
     achievements: {
@@ -67,7 +67,7 @@ const awsSecuritySpecialist = {
 
 ---
 
-## 🛡️ AWS Security Domains Expertise
+## 🛡️ Security Domains Expertise
 
 ### 1️⃣ Security Foundations
 
@@ -440,7 +440,7 @@ End-to-end data protection with encryption, key management, and data classificat
 
 ## 🎯 Current Focus
 
-- 🔐 **AWS Security Specialty** - Advanced security implementations
+- 🔐 **Security Architecture** - Advanced security implementations
 - 🏗️ **Security Foundations** - Multi-account governance
 - 🔑 **Zero Trust IAM** - Identity-centric security
 - 🚨 **Automated Detection** - AI-powered threat detection
@@ -450,18 +450,18 @@ End-to-end data protection with encryption, key management, and data classificat
 
 ---
 
-## 📫 AWS Security Consulting
+## 📫 Cloud Security Consulting
 
-Specialized in AWS Security Specialty domains. Available for security architecture reviews, implementations, and consulting.
+Specialized in cloud security architecture and implementation. Available for security reviews, implementations, and consulting.
 
 ### Services
 - 🏗️ **Security Foundations** - Multi-account setup, governance
 - 🔑 **IAM Architecture** - Zero-trust implementation
-- 🚨 **Detection Setup** - GuardDuty, Security Hub, Detective
-- 🛡️ **Infrastructure Security** - VPC, WAF, Shield, Network Firewall
-- 🔒 **Data Protection** - KMS, encryption, secrets management
+- 🚨 **Detection Setup** - Threat detection and monitoring
+- 🛡️ **Infrastructure Security** - Network security, firewalls
+- 🔒 **Data Protection** - Encryption, key management
 - ⚡ **Incident Response** - Automation and playbooks
-- 🔐 **Application Security** - Secure API and serverless
+- 🔐 **Application Security** - Secure API and DevSecOps
 
 <div align="center">
 
@@ -480,7 +480,7 @@ Specialized in AWS Security Specialty domains. Available for security architectu
   
   <br/>
   
-  **⭐ AWS Security Specialist | Securing Cloud Infrastructure**
+  **⭐ Cloud Security Engineer | Securing Cloud Infrastructure**
   
   <sub>Security Foundations • IAM • Detection • Infrastructure Protection • Data Protection • Incident Response • Application Security</sub>
 </div>
