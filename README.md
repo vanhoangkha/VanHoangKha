@@ -1,265 +1,259 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-vanhoangkha-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vanhoangkha)
-  [![Email](https://img.shields.io/badge/Email-khavan.work@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:khavan.work@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=vanhoangkha&color=FF9900&style=flat-square)
+<h3 align="center">Cloud Security Engineer | DevSecOps Specialist</h3>
+<p align="center">
+  <em>Securing cloud infrastructure • Automating security operations • Building resilient systems</em>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/vanhoangkha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:khavan.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://cloudjourney.awsstudygroup.com"><img src="https://img.shields.io/badge/-Website-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-## Cloud Security Engineer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanhoangkha&color=FF9900&style=flat-square&label=Profile+Views"/>
+</p>
 
-Specializing in securing cloud infrastructure and applications across AWS, Azure, and GCP. 5+ years of experience implementing security controls, conducting assessments, and building secure-by-design architectures for enterprise environments.
+---
 
-```yaml
-role: Cloud Security Engineer
-location: Ho Chi Minh City, Vietnam
-focus: Cloud Security • DevSecOps • Compliance • Threat Detection
+### 👨‍💻 About Me
 
-expertise:
-  - Cloud security architecture and design
-  - Security automation and orchestration
-  - Compliance frameworks (PCI-DSS, SOC2, ISO 27001)
-  - Threat detection and incident response
-  - Identity and access management
-  - Container and Kubernetes security
+```typescript
+const kha = {
+    role: "Cloud Security Engineer",
+    location: "Ho Chi Minh City, Vietnam 🇻🇳",
+    experience: "5+ years",
+    
+    expertise: [
+        "Cloud Security Architecture",
+        "DevSecOps & Automation", 
+        "Compliance & Governance",
+        "Threat Detection & Response"
+    ],
+    
+    currentFocus: {
+        building: "Security automation frameworks",
+        learning: "Advanced threat hunting",
+        contributing: "Open source security tools"
+    }
+};
 ```
 
 ---
 
-## Core Competencies
+### 🛡️ Security Expertise
 
-**Cloud Security Platforms**  
-AWS Security Hub, GuardDuty, Macie, Inspector, WAF, Shield • Azure Security Center, Sentinel • GCP Security Command Center
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Security Tools & Technologies**  
-Terraform, CloudFormation, Ansible • Vault, KMS, Secrets Manager • Splunk, ELK Stack • Wiz, Prisma Cloud, Aqua Security
+**Cloud Security**
+- AWS Security Hub, GuardDuty, Macie
+- Azure Security Center, Sentinel
+- GCP Security Command Center
+- Multi-cloud security posture management
 
-**DevSecOps & Automation**  
-GitHub Actions, GitLab CI, Jenkins • SAST/DAST (SonarQube, Snyk, Checkmarx) • Container Security (Trivy, Clair) • Policy as Code (OPA, Sentinel)
+**DevSecOps**
+- CI/CD security integration
+- SAST/DAST automation
+- Container security scanning
+- Infrastructure as Code security
 
-**Compliance & Governance**  
-PCI-DSS, SOC2, ISO 27001, HIPAA, GDPR • AWS Config, CloudTrail, Organizations • Azure Policy, Blueprints • GCP Security Command Center
+</td>
+<td width="50%" valign="top">
 
-**Identity & Access Management**  
-AWS IAM, Cognito, SSO • Azure AD, Entra ID • Okta, Auth0 • Zero Trust Architecture • Least Privilege Implementation
+**Compliance & Governance**
+- PCI-DSS, SOC2, ISO 27001
+- Security controls implementation
+- Audit preparation & support
+- Continuous compliance monitoring
 
-**Network Security**  
-VPC Design, Security Groups, NACLs • AWS Transit Gateway, PrivateLink • Azure Virtual Network, NSG • Firewall Management • DDoS Protection
+**Threat Management**
+- SIEM implementation & tuning
+- Automated incident response
+- Vulnerability management
+- Penetration testing
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Security Projects
+### 🚀 Featured Projects
 
-### AWS Security Automation Framework
-Automated security baseline deployment and compliance monitoring across multi-account AWS environments.
+<details>
+<summary><b>🔐 AWS Security Automation Framework</b></summary>
+<br/>
 
-**Key Features:**
-- Automated security controls deployment
-- Real-time compliance monitoring
-- Automated remediation workflows
-- Security findings aggregation
-- Custom security metrics dashboard
+Automated security baseline deployment across multi-account AWS environments.
 
-**Tech Stack:** AWS Organizations, Security Hub, Config, Lambda, EventBridge, Step Functions
+**Impact:**
+- 75% reduction in security incidents
+- 80% automation of security operations
+- 4-hour mean time to remediation
 
-### Container Security Pipeline
+**Tech:** AWS Organizations, Security Hub, Config, Lambda, EventBridge
+
+</details>
+
+<details>
+<summary><b>🐳 Container Security Pipeline</b></summary>
+<br/>
+
 End-to-end security scanning and policy enforcement for containerized applications.
 
-**Key Features:**
+**Features:**
 - Image vulnerability scanning
 - Runtime security monitoring
 - Policy enforcement with OPA
-- Secrets detection and management
-- Compliance reporting
+- Secrets management
 
-**Tech Stack:** Kubernetes, Trivy, Falco, OPA, Vault, GitLab CI
+**Tech:** Kubernetes, Trivy, Falco, OPA, Vault
 
-### Cloud Security Posture Management
-Continuous security assessment and risk scoring across multi-cloud environments.
+</details>
 
-**Key Features:**
+<details>
+<summary><b>☁️ Cloud Security Posture Management</b></summary>
+<br/>
+
+Continuous security assessment across multi-cloud environments.
+
+**Capabilities:**
 - Multi-cloud security assessment
 - Risk scoring and prioritization
 - Automated remediation
 - Compliance reporting
-- Security metrics dashboard
 
-**Tech Stack:** Python, Terraform, AWS, Azure, GCP APIs, Elasticsearch
+**Tech:** Python, Terraform, AWS/Azure/GCP APIs
 
----
-
-## Security Achievements
-
-**Enterprise Impact:**
-- Reduced security incidents by 75% through automated detection and response
-- Achieved PCI-DSS and SOC2 compliance for 10+ enterprise clients
-- Implemented zero-trust architecture serving 50,000+ users
-- Automated 80% of security operations tasks
-- Reduced mean time to remediation from 48h to 4h
-
-**Security Assessments:**
-- Conducted 50+ cloud security assessments
-- Identified and remediated 500+ security vulnerabilities
-- Performed 20+ penetration tests
-- Led 15+ incident response engagements
-
-**Community Contributions:**
-- AWS Security Specialty mentor (100+ engineers certified)
-- Published 50+ security articles (500K+ reads)
-- Speaker at security conferences and meetups
-- Open-source security tools contributor
+</details>
 
 ---
 
-## Technical Expertise
-
-**Threat Detection & Response**
-- SIEM implementation and tuning
-- Security event correlation
-- Automated incident response
-- Threat hunting and analysis
-- Forensics and root cause analysis
-
-**Vulnerability Management**
-- Continuous vulnerability scanning
-- Risk assessment and prioritization
-- Patch management automation
-- Security testing (SAST/DAST/IAST)
-- Penetration testing
-
-**Security Architecture**
-- Secure cloud architecture design
-- Zero trust implementation
-- Defense in depth strategies
-- Security reference architectures
-- Threat modeling
-
-**Compliance & Audit**
-- Compliance framework implementation
-- Security controls mapping
-- Audit preparation and support
-- Evidence collection automation
-- Continuous compliance monitoring
-
----
-
-## Security Frameworks & Standards
-
-**Compliance:**
-- PCI-DSS v4.0
-- SOC2 Type II
-- ISO 27001:2022
-- HIPAA/HITECH
-- GDPR
-- NIST Cybersecurity Framework
-- CIS Benchmarks
-
-**Security Models:**
-- Zero Trust Architecture
-- Defense in Depth
-- Least Privilege
-- Assume Breach
-- Security by Design
-
----
-
-## Recent Security Work
-
-**Q4 2024:**
-- Implemented AWS Security Hub across 50+ accounts
-- Automated compliance reporting for PCI-DSS
-- Deployed container security scanning pipeline
-- Conducted security training for 200+ developers
-
-**Q3 2024:**
-- Led SOC2 Type II audit (successful)
-- Implemented automated threat detection
-- Reduced false positives by 60%
-- Deployed secrets management solution
-
-**Q2 2024:**
-- Designed zero-trust network architecture
-- Implemented SIEM with automated response
-- Conducted red team exercise
-- Achieved 99.9% security SLA
-
----
-
-## Security Tools & Technologies
+### 💼 Professional Impact
 
 <div align="center">
 
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-**Security Tools**  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+| Metric | Achievement |
+|:------:|:-----------:|
+| **Security Incidents** | ↓ 75% |
+| **Automation Rate** | 80% |
+| **MTTR** | 4 hours |
+| **Assessments** | 50+ |
+| **Vulnerabilities Fixed** | 500+ |
 
 </div>
 
 ---
 
-## GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9"/>
+**Cloud Platforms**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanhoangkha&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)](https://git.io/streak-stats)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Security & DevOps**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
 ---
 
-## Security Philosophy
+### 📊 GitHub Stats
 
-**"Security is not a product, but a process."** - Bruce Schneier
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9"/>
+</div>
 
-I believe in:
-- Security by design, not as an afterthought
-- Automation over manual processes
-- Continuous improvement and learning
-- Collaboration between security and development teams
-- Transparency and knowledge sharing
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhoangkha&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanhoangkha&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF" alt="Contribution Graph"/>
+</div>
 
 ---
 
-## Let's Connect
+### 🏆 Achievements
 
-I'm always interested in discussing cloud security, threat detection, or compliance challenges. Feel free to reach out for:
+<div align="center">
 
+```
+🎯 50+ Security Assessments Conducted
+🔒 500+ Vulnerabilities Remediated  
+⚡ 75% Reduction in Security Incidents
+🤖 80% Security Operations Automated
+📊 10+ Compliance Audits (PCI-DSS, SOC2, ISO 27001)
+```
+
+</div>
+
+---
+
+### 📚 Recent Focus
+
+- 🔐 Implementing zero-trust architecture
+- 🤖 Building AI-powered threat detection
+- ☁️ Multi-cloud security automation
+- 📖 Contributing to security open source
+- 🎓 Mentoring security engineers
+
+---
+
+### 💡 Security Philosophy
+
+> **"Security is not a product, but a process."**
+> 
+> I believe in security by design, automation over manual processes, and continuous improvement through collaboration.
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+I'm always interested in discussing cloud security, DevSecOps, or compliance challenges.
+
+**Open to:**
 - Security architecture reviews
-- Compliance consulting
+- Compliance consulting  
 - Security automation projects
 - Speaking engagements
-- Mentoring and knowledge sharing
+- Mentoring opportunities
 
-**Contact:**
-- LinkedIn: [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
-- Email: khavan.work@gmail.com
-- Website: [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanhoangkha)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khavan.work@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cloudjourney.awsstudygroup.com)
+
+</div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**Securing the cloud, one deployment at a time** 🔒
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+  <sub>⭐ Securing the cloud, one deployment at a time</sub>
 </div>
