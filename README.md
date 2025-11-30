@@ -485,10 +485,10 @@ End-to-end data protection with encryption, key management, and data classificat
 <div align="center">
   
 <a href="https://github.com/vanhoangkha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vanhoangkha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/vanhoangkha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9" alt="Top Languages"/>
 </a>
 
 </div>
@@ -497,7 +497,7 @@ End-to-end data protection with encryption, key management, and data classificat
 
 <div align="center">
   <a href="https://github.com/vanhoangkha">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhoangkha&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=vanhoangkha&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak"/>
   </a>
 </div>
 
