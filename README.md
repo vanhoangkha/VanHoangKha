@@ -1,83 +1,78 @@
 # Kha Van Hoang
 
-Cloud Security Engineer | Ho Chi Minh City, Vietnam
+Cloud Security Engineer specializing in multi-cloud security architecture and Infrastructure as Code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vanhoangkha-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/vanhoangkha)
 [![Email](https://img.shields.io/badge/Email-khavan.work%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:khavan.work@gmail.com)
 [![Website](https://img.shields.io/badge/Website-cloudjourney.awsstudygroup.com-FF9900?style=flat-square&logo=amazonaws)](https://cloudjourney.awsstudygroup.com)
 
-## Overview
+## Professional Summary
 
-Cloud Security Engineer specializing in multi-cloud security architecture across AWS, Azure, and GCP. Experienced in designing secure cloud infrastructures, implementing security baselines, and automating security operations using Infrastructure as Code.
+Cloud Security Engineer with expertise in designing and implementing secure cloud architectures across AWS, Azure, and GCP. Focused on security automation, Infrastructure as Code, and establishing security baselines for enterprise cloud environments.
 
-**Core Focus:** Security Architecture • Cloud Security • Infrastructure as Code • Security Automation
-
-## Professional Experience
+## Experience
 
 ### Cloud Security Engineer
 
-Design and implement secure cloud architectures across AWS, Azure, and GCP platforms. Establish security baselines, conduct security assessments, and automate security operations.
+Responsible for designing secure cloud architectures and implementing security controls across multi-cloud environments. Work includes security baseline development, threat detection automation, and compliance framework implementation.
 
-**Key Responsibilities:**
-- Design secure cloud architectures and security solutions
-- Implement and maintain security baselines across cloud environments
-- Conduct security assessments and compliance audits
-- Evaluate security controls effectiveness and identify risks
-- Automate security operations using Infrastructure as Code
+**Key Deliverables:**
 
-**Notable Projects:**
-- Security baseline implementation across AWS accounts using Terraform
-- Automated threat detection system with GuardDuty and Security Hub
-- Zero-trust IAM architecture design and implementation
-- Multi-cloud security monitoring and alerting solution
+- Secure cloud architecture design and implementation
+- Security baseline development and enforcement
+- Automated threat detection and response systems
+- Security assessments and compliance audits
+- Infrastructure as Code security automation
 
-## Technical Expertise
+**Selected Projects:**
 
-### Cloud Platforms
+- Implemented security baselines across AWS accounts using Terraform
+- Deployed automated threat detection with AWS GuardDuty and Security Hub
+- Designed zero-trust IAM architecture for enterprise workloads
+- Built multi-cloud security monitoring and alerting infrastructure
 
-**AWS**
-- Security: Security Hub, GuardDuty, IAM, KMS, Secrets Manager
-- Network: WAF, Shield, Network Firewall, VPC
-- Monitoring: Config, CloudTrail, CloudWatch, EventBridge
+## Technical Skills
 
-**Azure**
-- Security Center, Sentinel, Key Vault, Defender
-- Azure Policy, Monitor, Network Security Groups
+### Cloud Security
 
-**GCP**
-- Security Command Center, Cloud Armor
-- IAM, KMS, VPC Service Controls
+**AWS Security Services**
+- AWS Security Hub, GuardDuty, IAM, KMS, Secrets Manager
+- AWS WAF, Shield, Network Firewall
+- AWS Config, CloudTrail, CloudWatch, EventBridge
+
+**Azure Security Services**
+- Azure Security Center, Sentinel, Key Vault, Defender
+- Azure Policy, Monitor
+
+**GCP Security Services**
+- Security Command Center, Cloud Armor, IAM, KMS
 
 ### Security Domains
 
-- Security Architecture and Design
-- Identity and Access Management (IAM)
+- Cloud Security Architecture
+- Identity and Access Management
 - Threat Detection and Incident Response
 - Network Security and Data Protection
-- Compliance and Security Audits
+- Security Compliance and Auditing
 
-### Automation and IaC
+### Infrastructure as Code
 
-**Tools:** Terraform, CloudFormation, Ansible, Chef
+**Tools:** Terraform, AWS CloudFormation, Ansible, Chef
 
-**Languages:** Python, PowerShell, Bash
+**Scripting:** Python, PowerShell, Bash
 
 **CI/CD:** Jenkins, GitLab CI, GitHub Actions
 
-### Compliance Frameworks
+### Compliance Standards
 
-PCI-DSS • SOC2 • ISO 27001 • HIPAA • GDPR • NIST CSF • CIS Benchmarks
+PCI-DSS, SOC 2, ISO 27001, HIPAA, GDPR, NIST Cybersecurity Framework, CIS Benchmarks
 
 ## Contact
 
-**Location:** Ho Chi Minh City, Vietnam (GMT+7)
+**Location:** Ho Chi Minh City, Vietnam
 
 **Email:** khavan.work@gmail.com
 
-**LinkedIn:** [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
+**LinkedIn:** linkedin.com/in/vanhoangkha
 
-**Website:** [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com)
-
----
-
-Open to cloud security engineering opportunities and consulting projects.
+**Website:** cloudjourney.awsstudygroup.com
