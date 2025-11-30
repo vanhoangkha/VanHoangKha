@@ -432,6 +432,8 @@ End-to-end data protection with encryption, key management, and data classificat
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhoangkha&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak"/>
 </div>
