@@ -30,20 +30,6 @@ expertise:
 
 ---
 
-## Security Certifications
-
-<div align="center">
-
-| AWS Security Specialty | CISSP | CEH | CompTIA Security+ |
-|:---:|:---:|:---:|:---:|
-| <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100px"/> | Certified | Certified | Certified |
-
-**Additional:** AWS Solutions Architect Professional • AWS DevOps Engineer Professional
-
-</div>
-
----
-
 ## Core Competencies
 
 **Cloud Security Platforms**  
@@ -227,12 +213,14 @@ Continuous security assessment and risk scoring across multi-cloud environments.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanhoangkha&theme=tokyonight&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)](https://git.io/streak-stats)
 
 </div>
 
