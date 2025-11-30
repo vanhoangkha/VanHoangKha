@@ -95,17 +95,6 @@ Developed unified security monitoring and compliance system across AWS, Azure, a
 
 ---
 
-## Education & Certifications
-
-**Bachelor's Degree** in Computer Science / Information Security
-
-**Professional Certifications:**
-- AWS Certified Solutions Architect – Professional
-- AWS Certified Security – Specialty
-- AWS Certified DevOps Engineer – Professional
-
----
-
 ## Professional Skills
 
 **Technical Skills:**
