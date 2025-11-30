@@ -36,7 +36,7 @@ Cloud Security Engineer with 5+ years of experience in cloud infrastructure secu
 
 ## Professional Experience
 
-**Cloud Security Engineer** | 2019 - Present
+**Cloud Security Engineer**
 
 Responsibilities:
 - Design and implement secure cloud architectures across AWS, Azure, and GCP
