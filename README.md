@@ -1,19 +1,19 @@
 <!-- SEO Meta Tags -->
 <!-- 
-Title: Kha Van Hoang - Multi-Cloud Security Engineer | AWS Azure GCP Security Expert
-Description: Multi-Cloud Security Engineer with expertise across AWS, Azure, and GCP. Specialized in Security Foundations, IAM, Detection, Infrastructure Protection, Data Protection, and Incident Response.
-Keywords: Multi-Cloud Security Engineer, AWS Security, Azure Security, GCP Security, Cloud Security, Identity Access Management, Threat Detection, Infrastructure Protection
+Title: Kha Van Hoang - Senior Cloud Security Engineer | AWS Azure GCP Security Expert
+Description: Senior Cloud Security Engineer with 5+ years experience in AWS, Azure, GCP. Expert in secure architecture design, security baseline, risk assessment, and security audits.
+Keywords: Senior Cloud Security Engineer, AWS Security, Azure Security, GCP Security, Secure Architecture, Security Baseline, Risk Assessment, Security Audits, Terraform, Ansible
 -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn" width="100%" alt="Kha Van Hoang - Cloud Security Engineer"/>
 </div>
 
-<h1 align="center">Multi-Cloud Security Engineer</h1>
-<h3 align="center">AWS • Azure • GCP | Security Foundations • IAM • Detection • Infrastructure Protection • Data Protection • Incident Response</h3>
+<h1 align="center">Senior Cloud Security Engineer</h1>
+<h3 align="center">AWS • Azure • GCP | Secure Architecture Design • Security Baseline • Risk Assessment • Security Audits</h3>
 
 <p align="center">
-  <strong>5+ Years Experience</strong> | <strong>Multi-Cloud Expertise</strong> | <strong>50+ Security Implementations</strong>
+  <strong>5+ Years Experience</strong> | <strong>Multi-Cloud Security Expert</strong> | <strong>50+ Security Implementations</strong>
 </p>
 
 <p align="center">
@@ -35,37 +35,90 @@ Keywords: Multi-Cloud Security Engineer, AWS Security, Azure Security, GCP Secur
 
 ---
 
-## 👨‍💻 Multi-Cloud Security Engineer
+## 👨‍💻 Senior Cloud Security Engineer
 
-Professional **Multi-Cloud Security Engineer** with deep expertise across **AWS, Azure, and GCP**. Specialized in implementing comprehensive security solutions across multiple cloud platforms following industry best practices and security frameworks.
+**Senior Cloud Security Engineer** with **5+ years of experience** in cloud infrastructure security across **AWS, Azure, and GCP**. Specialized in designing and implementing secure cloud architectures, establishing security baselines, and conducting comprehensive security assessments and audits.
+
+### Core Responsibilities
+- 🏗️ **Design & Implement** secure cloud architecture (AWS, GCP, Azure)
+- 🛡️ **Establish & Implement** security baseline and security solutions for cloud infrastructure
+- 📊 **Analyze & Evaluate** status and effectiveness of implemented security controls
+- 🔍 **Identify & Evaluate** security risks associated with cloud deployments
+- ✅ **Conduct Security Assessments** and audits of existing cloud environments to identify vulnerabilities and risks
 
 ```typescript
-const multiCloudSecurityEngineer = {
+const seniorCloudSecurityEngineer = {
     name: "Kha Van Hoang",
-    role: "Multi-Cloud Security Engineer",
+    role: "Senior Cloud Security Engineer",
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    experience: "5+ years",
+    experience: "5+ years in cloud infrastructure security",
     
     cloudPlatforms: ["AWS", "Azure", "GCP"],
     
-    securityDomains: {
-        "Security Foundations": "Multi-cloud Governance, Compliance, Policy Management",
-        "Identity & Access Management": "IAM, SSO, Federation, Zero Trust across clouds",
-        "Detection": "Threat Detection, SIEM, Security Monitoring (multi-cloud)",
-        "Infrastructure Protection": "Network Security, Firewalls, DDoS Protection",
-        "Data Protection": "Encryption, Key Management, Data Classification",
-        "Incident Response": "Automation, Playbooks, Cross-cloud Forensics",
-        "Application Security": "API Security, DevSecOps, Container Security"
+    coreSkills: {
+        architecture: "Secure cloud architecture design and implementation",
+        baseline: "Security baseline establishment and enforcement",
+        assessment: "Security assessments, audits, and risk evaluation",
+        automation: "Terraform, Ansible, Python, PowerShell, Bash",
+        security: "Network security, data protection, threat detection"
     },
+    
+    expertise: [
+        "Cloud security services and features (AWS, GCP, Azure)",
+        "Security principles, practices, and technologies",
+        "Network security and data protection",
+        "Threat detection and incident response",
+        "Automation and Infrastructure as Code",
+        "Security audits and compliance"
+    ],
     
     achievements: {
         implementations: "50+",
         securityIncidents: "↓ 75%",
         automation: "80%",
-        multiCloudCompliance: "100%"
+        auditsCompleted: "10+"
     }
 };
 ```
+
+---
+
+## 💼 Technical Skills & Qualifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud Platforms & Security Services
+- **AWS Security**: Security Hub, GuardDuty, IAM, KMS, WAF, Shield, Config
+- **Azure Security**: Security Center, Sentinel, Key Vault, Defender, Policy
+- **GCP Security**: Security Command Center, Cloud Armor, IAM, KMS
+- **Multi-Cloud CSPM**: Unified security posture management
+
+### Security Principles & Technologies
+- **Network Security**: VPC design, firewalls, segmentation, DDoS protection
+- **Data Protection**: Encryption at rest/transit, key management, DLP
+- **Threat Detection**: SIEM, IDS/IPS, behavioral analysis, threat intelligence
+- **Identity & Access**: IAM, SSO, MFA, zero-trust architecture
+
+</td>
+<td width="50%" valign="top">
+
+### Automation & Infrastructure as Code
+- **IaC Tools**: Terraform, CloudFormation, ARM Templates
+- **Configuration Management**: Ansible, Chef, Puppet
+- **Scripting**: Python, PowerShell, Bash
+- **CI/CD Security**: Jenkins, GitLab CI, GitHub Actions
+
+### Security Assessment & Compliance
+- **Security Audits**: Vulnerability assessments, penetration testing
+- **Risk Management**: Risk identification, evaluation, mitigation
+- **Compliance**: PCI-DSS, SOC2, ISO 27001, HIPAA, GDPR
+- **Security Controls**: Implementation, monitoring, effectiveness analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -454,18 +507,18 @@ End-to-end data protection with encryption, key management, and data classificat
 
 ---
 
-## 📫 Multi-Cloud Security Consulting
+## 📫 Senior Cloud Security Consulting
 
-Specialized in multi-cloud security architecture across AWS, Azure, and GCP. Available for security reviews, implementations, and consulting.
+Senior-level cloud security consulting across AWS, Azure, and GCP. Available for architecture design, security assessments, and implementation.
 
 ### Services
-- ☁️ **Multi-Cloud Strategy** - Unified security across AWS, Azure, GCP
-- 🏗️ **Security Foundations** - Multi-cloud governance and compliance
-- 🔑 **IAM Architecture** - Cross-cloud identity and zero-trust
-- 🚨 **Detection Setup** - Multi-cloud threat detection and SIEM
-- 🛡️ **Infrastructure Security** - Network security across clouds
-- 🔒 **Data Protection** - Encryption and key management
-- ⚡ **Incident Response** - Cross-cloud automation and playbooks
+- 🏗️ **Secure Architecture Design** - Design and implement secure cloud architecture
+- 🛡️ **Security Baseline** - Establish and implement security baseline and solutions
+- 📊 **Security Assessment** - Analyze and evaluate security controls effectiveness
+- 🔍 **Risk Evaluation** - Identify and evaluate security risks in cloud deployments
+- ✅ **Security Audits** - Conduct comprehensive security assessments and audits
+- 🤖 **Security Automation** - Terraform, Ansible, Python automation
+- 📋 **Compliance** - PCI-DSS, SOC2, ISO 27001, HIPAA, GDPR
 
 <div align="center">
 
@@ -484,7 +537,7 @@ Specialized in multi-cloud security architecture across AWS, Azure, and GCP. Ava
   
   <br/>
   
-  **⭐ Multi-Cloud Security Engineer | Securing AWS • Azure • GCP**
+  **⭐ Senior Cloud Security Engineer | AWS • Azure • GCP**
   
-  <sub>Multi-Cloud Security • AWS Security • Azure Security • GCP Security • Security Foundations • IAM • Detection • Infrastructure Protection</sub>
+  <sub>Secure Architecture Design • Security Baseline • Risk Assessment • Security Audits • Automation • Compliance</sub>
 </div>
