@@ -1,19 +1,19 @@
 <!-- SEO Meta Tags -->
 <!-- 
-Title: Kha Van Hoang - Cloud Security Engineer | Security Foundations Expert
-Description: Cloud Security Engineer with expertise in Security Foundations, IAM, Detection, Infrastructure Protection, Data Protection, Incident Response, and Application Security.
-Keywords: Cloud Security Engineer, Security Foundations, Identity Access Management, Threat Detection, Infrastructure Protection, Data Protection, Incident Response, Application Security
+Title: Kha Van Hoang - Multi-Cloud Security Engineer | AWS Azure GCP Security Expert
+Description: Multi-Cloud Security Engineer with expertise across AWS, Azure, and GCP. Specialized in Security Foundations, IAM, Detection, Infrastructure Protection, Data Protection, and Incident Response.
+Keywords: Multi-Cloud Security Engineer, AWS Security, Azure Security, GCP Security, Cloud Security, Identity Access Management, Threat Detection, Infrastructure Protection
 -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn" width="100%" alt="Kha Van Hoang - Cloud Security Engineer"/>
 </div>
 
-<h1 align="center">Cloud Security Engineer</h1>
-<h3 align="center">Security Foundations • IAM • Detection • Infrastructure Protection • Data Protection • Incident Response • Application Security</h3>
+<h1 align="center">Multi-Cloud Security Engineer</h1>
+<h3 align="center">AWS • Azure • GCP | Security Foundations • IAM • Detection • Infrastructure Protection • Data Protection • Incident Response</h3>
 
 <p align="center">
-  <strong>5+ Years Experience</strong> | <strong>50+ Security Implementations</strong> | <strong>75% Incident Reduction</strong>
+  <strong>5+ Years Experience</strong> | <strong>Multi-Cloud Expertise</strong> | <strong>50+ Security Implementations</strong>
 </p>
 
 <p align="center">
@@ -35,24 +35,26 @@ Keywords: Cloud Security Engineer, Security Foundations, Identity Access Managem
 
 ---
 
-## 👨‍💻 Cloud Security Engineer
+## 👨‍💻 Multi-Cloud Security Engineer
 
-Professional **Cloud Security Engineer** with deep expertise across all security domains. Specialized in implementing comprehensive security solutions following industry best practices and security frameworks.
+Professional **Multi-Cloud Security Engineer** with deep expertise across **AWS, Azure, and GCP**. Specialized in implementing comprehensive security solutions across multiple cloud platforms following industry best practices and security frameworks.
 
 ```typescript
-const cloudSecurityEngineer = {
+const multiCloudSecurityEngineer = {
     name: "Kha Van Hoang",
-    role: "Cloud Security Engineer",
+    role: "Multi-Cloud Security Engineer",
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
     experience: "5+ years",
     
+    cloudPlatforms: ["AWS", "Azure", "GCP"],
+    
     securityDomains: {
-        "Security Foundations": "Governance, Multi-account Strategy, Compliance",
-        "Identity & Access Management": "IAM, SSO, Federation, Zero Trust",
-        "Detection": "Threat Detection, Security Monitoring, SIEM",
-        "Infrastructure Protection": "Network Security, DDoS Protection, Firewalls",
+        "Security Foundations": "Multi-cloud Governance, Compliance, Policy Management",
+        "Identity & Access Management": "IAM, SSO, Federation, Zero Trust across clouds",
+        "Detection": "Threat Detection, SIEM, Security Monitoring (multi-cloud)",
+        "Infrastructure Protection": "Network Security, Firewalls, DDoS Protection",
         "Data Protection": "Encryption, Key Management, Data Classification",
-        "Incident Response": "Automation, Playbooks, Forensics",
+        "Incident Response": "Automation, Playbooks, Cross-cloud Forensics",
         "Application Security": "API Security, DevSecOps, Container Security"
     },
     
@@ -60,14 +62,14 @@ const cloudSecurityEngineer = {
         implementations: "50+",
         securityIncidents: "↓ 75%",
         automation: "80%",
-        compliance: "100%"
+        multiCloudCompliance: "100%"
     }
 };
 ```
 
 ---
 
-## 🛡️ Security Domains Expertise
+## 🛡️ Multi-Cloud Security Domains Expertise
 
 ### 1️⃣ Security Foundations
 
@@ -452,18 +454,18 @@ End-to-end data protection with encryption, key management, and data classificat
 
 ---
 
-## 📫 Cloud Security Consulting
+## 📫 Multi-Cloud Security Consulting
 
-Specialized in cloud security architecture and implementation. Available for security reviews, implementations, and consulting.
+Specialized in multi-cloud security architecture across AWS, Azure, and GCP. Available for security reviews, implementations, and consulting.
 
 ### Services
-- 🏗️ **Security Foundations** - Multi-account setup, governance
-- 🔑 **IAM Architecture** - Zero-trust implementation
-- 🚨 **Detection Setup** - Threat detection and monitoring
-- 🛡️ **Infrastructure Security** - Network security, firewalls
-- 🔒 **Data Protection** - Encryption, key management
-- ⚡ **Incident Response** - Automation and playbooks
-- 🔐 **Application Security** - Secure API and DevSecOps
+- ☁️ **Multi-Cloud Strategy** - Unified security across AWS, Azure, GCP
+- 🏗️ **Security Foundations** - Multi-cloud governance and compliance
+- 🔑 **IAM Architecture** - Cross-cloud identity and zero-trust
+- 🚨 **Detection Setup** - Multi-cloud threat detection and SIEM
+- 🛡️ **Infrastructure Security** - Network security across clouds
+- 🔒 **Data Protection** - Encryption and key management
+- ⚡ **Incident Response** - Cross-cloud automation and playbooks
 
 <div align="center">
 
@@ -482,7 +484,7 @@ Specialized in cloud security architecture and implementation. Available for sec
   
   <br/>
   
-  **⭐ Cloud Security Engineer | Securing Cloud Infrastructure**
+  **⭐ Multi-Cloud Security Engineer | Securing AWS • Azure • GCP**
   
-  <sub>Security Foundations • IAM • Detection • Infrastructure Protection • Data Protection • Incident Response • Application Security</sub>
+  <sub>Multi-Cloud Security • AWS Security • Azure Security • GCP Security • Security Foundations • IAM • Detection • Infrastructure Protection</sub>
 </div>
