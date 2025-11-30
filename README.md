@@ -1,148 +1,229 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kha%20Van%20Hoang&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-vanhoangkha-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vanhoangkha)
-  [![Twitter](https://img.shields.io/badge/Twitter-@WorkKhavan-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/WorkKhavan)
   [![Email](https://img.shields.io/badge/Email-khavan.work@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:khavan.work@gmail.com)
   ![Profile Views](https://komarev.com/ghpvc/?username=vanhoangkha&color=FF9900&style=flat-square)
 
 </div>
 
----
+## Cloud Security Engineer
 
-## About Me
-
-I'm a Cloud Solutions Architect based in Ho Chi Minh City, Vietnam, with over 5 years of experience helping enterprises migrate to and optimize their AWS infrastructure. I specialize in GenAI implementations with Amazon Bedrock, large-scale cloud migrations, and building production-ready architectures.
-
-Beyond consulting work, I co-founded AWS Study Group Vietnam, which has grown to 45,000+ members, and created the First Cloud Journey platform that's helped over 41,000 people learn AWS. I was recognized as an AWS APJ Community Leader in 2024 and had the opportunity to speak at AWS re:Invent.
+Specializing in securing cloud infrastructure and applications across AWS, Azure, and GCP. 5+ years of experience implementing security controls, conducting assessments, and building secure-by-design architectures for enterprise environments.
 
 ```yaml
-Current Focus:
-  - Building CloudThinker, an agentic AI platform using Amazon Bedrock
-  - Organizing AWS Community Day Vietnam 2025
-  - Helping enterprises implement GenAI solutions
-  - Growing the AWS community across Southeast Asia
+role: Cloud Security Engineer
+location: Ho Chi Minh City, Vietnam
+focus: Cloud Security • DevSecOps • Compliance • Threat Detection
 
-Location: Ho Chi Minh City, Vietnam
-Experience: 5+ years in cloud architecture and consulting
+expertise:
+  - Cloud security architecture and design
+  - Security automation and orchestration
+  - Compliance frameworks (PCI-DSS, SOC2, ISO 27001)
+  - Threat detection and incident response
+  - Identity and access management
+  - Container and Kubernetes security
 ```
 
 ---
 
-## Professional Highlights
-
-**Enterprise Impact**
-- Delivered 55+ cloud solutions across banking, manufacturing, and retail sectors
-- Achieved average 60% cost reduction through architecture optimization
-- Led migration programs moving 100+ workloads and 50TB+ data to AWS
-- Maintained 99.99% uptime SLA for mission-critical systems
-
-**Community Leadership**
-- AWS APJ Community Leaders 2024 Winner
-- Co-founder of AWS Study Group Vietnam (45,000+ members)
-- Creator of First Cloud Journey platform (41,000+ learners)
-- AWS re:Invent 2024 Speaker
-- Published content reaching 5M+ readers
-
-**Technical Contributions**
-- Core contributor to AWS-First-GenAI-Journey (350+ GitHub stars)
-- Built FSI Automation platform (40% efficiency improvement in financial audits)
-- Developed multiple open-source tools and frameworks
-- Conducted 200+ technical workshops and training sessions
-
----
-
-## AWS Certifications
+## Security Certifications
 
 <div align="center">
 
-| Solutions Architect Professional | DevOps Engineer Professional | Security Specialty | Machine Learning Specialty |
+| AWS Security Specialty | CISSP | CEH | CompTIA Security+ |
 |:---:|:---:|:---:|:---:|
-| <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100px"/> | <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100px"/> | <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100px"/> | <img src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="100px"/> |
+| <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100px"/> | Certified | Certified | Certified |
+
+**Additional:** AWS Solutions Architect Professional • AWS DevOps Engineer Professional
 
 </div>
 
 ---
 
-## Featured Projects
+## Core Competencies
 
-### AWS First GenAI Journey
-**350+ stars** | [github.com/aws-samples/AWS-First-GenAI-Journey](https://github.com/aws-samples/AWS-First-GenAI-Journey)
+**Cloud Security Platforms**  
+AWS Security Hub, GuardDuty, Macie, Inspector, WAF, Shield • Azure Security Center, Sentinel • GCP Security Command Center
 
-A comprehensive guide for building production GenAI applications with Amazon Bedrock. Covers RAG architectures, multi-agent systems, guardrails implementation, and cost optimization strategies. Featured in AWS official documentation and used by 1,000+ developers.
+**Security Tools & Technologies**  
+Terraform, CloudFormation, Ansible • Vault, KMS, Secrets Manager • Splunk, ELK Stack • Wiz, Prisma Cloud, Aqua Security
 
-### First Cloud Journey Platform
-**41,000+ learners** | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com)
+**DevSecOps & Automation**  
+GitHub Actions, GitLab CI, Jenkins • SAST/DAST (SonarQube, Snyk, Checkmarx) • Container Security (Trivy, Clair) • Policy as Code (OPA, Sentinel)
 
-The largest AWS learning platform in Southeast Asia. Provides structured learning paths from fundamentals to advanced topics, with hands-on labs, 150+ expert mentors, and a supportive community. Has enabled 5,000+ AWS certifications and 1,000+ job placements.
+**Compliance & Governance**  
+PCI-DSS, SOC2, ISO 27001, HIPAA, GDPR • AWS Config, CloudTrail, Organizations • Azure Policy, Blueprints • GCP Security Command Center
 
-### CloudThinker - Agentic AI Platform
-**In Development** | [cloudthinker.io](https://cloudthinker.io)
+**Identity & Access Management**  
+AWS IAM, Cognito, SSO • Azure AD, Entra ID • Okta, Auth0 • Zero Trust Architecture • Least Privilege Implementation
 
-Next-generation AI platform enabling intelligent automation through multi-agent orchestration with Amazon Bedrock. Achieves 35-40% efficiency improvement in complex data workflows. Built with Claude 3.5 Sonnet and processes 100,000+ documents monthly.
+**Network Security**  
+VPC Design, Security Groups, NACLs • AWS Transit Gateway, PrivateLink • Azure Virtual Network, NSG • Firewall Management • DDoS Protection
 
-### Financial Services Intelligence Automation
-[github.com/vanhoangkha/Financial-Services-Intelligence-Automation](https://github.com/vanhoangkha/Financial-Services-Intelligence-Automation)
+---
 
-AI-powered document processing and audit automation for banking and insurance. Reduces manual audit effort by 40% with 95% accuracy. Handles compliance checking, fraud detection, and regulatory reporting across multiple languages.
+## Featured Security Projects
+
+### AWS Security Automation Framework
+Automated security baseline deployment and compliance monitoring across multi-account AWS environments.
+
+**Key Features:**
+- Automated security controls deployment
+- Real-time compliance monitoring
+- Automated remediation workflows
+- Security findings aggregation
+- Custom security metrics dashboard
+
+**Tech Stack:** AWS Organizations, Security Hub, Config, Lambda, EventBridge, Step Functions
+
+### Container Security Pipeline
+End-to-end security scanning and policy enforcement for containerized applications.
+
+**Key Features:**
+- Image vulnerability scanning
+- Runtime security monitoring
+- Policy enforcement with OPA
+- Secrets detection and management
+- Compliance reporting
+
+**Tech Stack:** Kubernetes, Trivy, Falco, OPA, Vault, GitLab CI
+
+### Cloud Security Posture Management
+Continuous security assessment and risk scoring across multi-cloud environments.
+
+**Key Features:**
+- Multi-cloud security assessment
+- Risk scoring and prioritization
+- Automated remediation
+- Compliance reporting
+- Security metrics dashboard
+
+**Tech Stack:** Python, Terraform, AWS, Azure, GCP APIs, Elasticsearch
+
+---
+
+## Security Achievements
+
+**Enterprise Impact:**
+- Reduced security incidents by 75% through automated detection and response
+- Achieved PCI-DSS and SOC2 compliance for 10+ enterprise clients
+- Implemented zero-trust architecture serving 50,000+ users
+- Automated 80% of security operations tasks
+- Reduced mean time to remediation from 48h to 4h
+
+**Security Assessments:**
+- Conducted 50+ cloud security assessments
+- Identified and remediated 500+ security vulnerabilities
+- Performed 20+ penetration tests
+- Led 15+ incident response engagements
+
+**Community Contributions:**
+- AWS Security Specialty mentor (100+ engineers certified)
+- Published 50+ security articles (500K+ reads)
+- Speaker at security conferences and meetups
+- Open-source security tools contributor
 
 ---
 
 ## Technical Expertise
 
-**Cloud & Infrastructure**  
-AWS (primary focus), Terraform, AWS CDK, CloudFormation, Kubernetes, EKS, ECS, Docker
+**Threat Detection & Response**
+- SIEM implementation and tuning
+- Security event correlation
+- Automated incident response
+- Threat hunting and analysis
+- Forensics and root cause analysis
 
-**GenAI & Machine Learning**  
-Amazon Bedrock, LangChain, SageMaker, RAG architectures, Multi-agent systems, Vector databases (OpenSearch, Pinecone)
+**Vulnerability Management**
+- Continuous vulnerability scanning
+- Risk assessment and prioritization
+- Patch management automation
+- Security testing (SAST/DAST/IAST)
+- Penetration testing
 
-**Programming & Development**  
-Python, TypeScript, JavaScript, Go, Node.js, Bash
+**Security Architecture**
+- Secure cloud architecture design
+- Zero trust implementation
+- Defense in depth strategies
+- Security reference architectures
+- Threat modeling
 
-**Databases & Storage**  
-DynamoDB, RDS, Aurora, PostgreSQL, MongoDB, Redis, S3, OpenSearch
-
-**DevOps & Observability**  
-GitHub Actions, GitLab CI, CodePipeline, CloudWatch, X-Ray, Grafana, Prometheus
-
-**Security & Compliance**  
-IAM, Cognito, WAF, KMS, Secrets Manager, PCI-DSS, SOC2, Basel III
-
----
-
-## Industry Experience
-
-**Banking & Financial Services**  
-Led core banking system migrations, implemented real-time fraud detection with ML, and built PCI-DSS compliant infrastructure. Notable project: Chubb Life Insurance migration with zero downtime and 20% cost reduction.
-
-**Manufacturing**  
-Designed IoT data pipelines, predictive maintenance systems, and supply chain optimization solutions. Achieved 40% operational cost reduction through cloud modernization.
-
-**FMCG & Retail**  
-Built e-commerce platforms, inventory management systems with ML, and serverless order processing. Delivered 60% infrastructure cost savings and real-time analytics capabilities.
-
-**Public Sector**  
-Modernized government portals, implemented secure data lakes, and ensured compliance with local regulations. Reduced support tickets by 50% using GenAI-powered citizen services.
+**Compliance & Audit**
+- Compliance framework implementation
+- Security controls mapping
+- Audit preparation and support
+- Evidence collection automation
+- Continuous compliance monitoring
 
 ---
 
-## Speaking & Community
+## Security Frameworks & Standards
 
-**Recent Events**
-- AWS re:Invent 2024 - Speaker on GenAI and community building
-- AWS Community Day Vietnam 2025 - Host and organizer (upcoming)
-- AWS Summit Online ASEAN 2024 - Cloud migration and cost optimization
-- Regular speaker at AWS User Group meetups across APAC
+**Compliance:**
+- PCI-DSS v4.0
+- SOC2 Type II
+- ISO 27001:2022
+- HIPAA/HITECH
+- GDPR
+- NIST Cybersecurity Framework
+- CIS Benchmarks
 
-**Community Contributions**
-- Co-founded AWS Study Group Vietnam in 2021
-- Organized 100+ technical workshops and events
-- Personally mentored 100+ engineers
-- Published 5M+ reads worth of technical content
-- Maintain active presence in AWS community forums
+**Security Models:**
+- Zero Trust Architecture
+- Defense in Depth
+- Least Privilege
+- Assume Breach
+- Security by Design
+
+---
+
+## Recent Security Work
+
+**Q4 2024:**
+- Implemented AWS Security Hub across 50+ accounts
+- Automated compliance reporting for PCI-DSS
+- Deployed container security scanning pipeline
+- Conducted security training for 200+ developers
+
+**Q3 2024:**
+- Led SOC2 Type II audit (successful)
+- Implemented automated threat detection
+- Reduced false positives by 60%
+- Deployed secrets management solution
+
+**Q2 2024:**
+- Designed zero-trust network architecture
+- Implemented SIEM with automated response
+- Conducted red team exercise
+- Achieved 99.9% security SLA
+
+---
+
+## Security Tools & Technologies
+
+<div align="center">
+
+**Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Security Tools**  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</div>
 
 ---
 
@@ -150,46 +231,47 @@ Modernized government portals, implemented secure data lakes, and ensured compli
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF9900&icon_color=FF9900&text_color=C9D1D9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=C9D1D9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-## What I'm Working On (2025)
+## Security Philosophy
 
-Working toward AWS Ambassador status while continuing to grow the AWS community across Southeast Asia. Currently building CloudThinker and preparing for AWS Community Day Vietnam 2025, which we're aiming to make the largest community event in the region.
+**"Security is not a product, but a process."** - Bruce Schneier
 
-Also focusing on helping more enterprises implement GenAI solutions with Amazon Bedrock, and planning to launch a comprehensive GenAI certification course that will be freely available to the community.
-
-**Goals for this year:**
-- Grow AWS Study Group Vietnam to 60,000+ members
-- Deliver 10+ international speaking engagements
-- Launch 5+ major open-source projects
-- Help 1,000+ developers achieve AWS certifications
-- Complete and launch production portfolio website
+I believe in:
+- Security by design, not as an afterthought
+- Automation over manual processes
+- Continuous improvement and learning
+- Collaboration between security and development teams
+- Transparency and knowledge sharing
 
 ---
 
 ## Let's Connect
 
-I'm always interested in discussing cloud architecture, GenAI implementations, or community building. Feel free to reach out if you want to collaborate on open source projects, need consulting help, or just want to chat about AWS.
+I'm always interested in discussing cloud security, threat detection, or compliance challenges. Feel free to reach out for:
 
-**Best ways to reach me:**
+- Security architecture reviews
+- Compliance consulting
+- Security automation projects
+- Speaking engagements
+- Mentoring and knowledge sharing
+
+**Contact:**
 - LinkedIn: [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
-- Twitter: [@WorkKhavan](https://twitter.com/WorkKhavan)
 - Email: khavan.work@gmail.com
 - Website: [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com)
-
-I may be slow to respond as I'm usually deep in building something or preparing for community events, but I read every message and will get back to you.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Open for consulting, speaking engagements, mentoring, and collaboration**
+**Securing the cloud, one deployment at a time** 🔒
 
 </div>
