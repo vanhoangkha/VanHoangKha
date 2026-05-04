@@ -16,8 +16,14 @@
   <a href="https://cloudjourney.awsstudygroup.com">
     <img src="https://img.shields.io/badge/AWS%20Learning%20Hub-cloudjourney-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Learning Hub"/>
   </a>
+  <a href="https://www.linkedin.com/in/vanhoangkha/">
+    <img src="https://img.shields.io/badge/LinkedIn-vanhoangkha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://twitter.com/WorkKhavan">
     <img src="https://img.shields.io/badge/X-@WorkKhavan-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:khavan.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khavan.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/vanhoangkha">
     <img src="https://img.shields.io/github/followers/vanhoangkha?style=flat-square&label=Followers&color=181717&logo=github" alt="GitHub Followers"/>
@@ -202,7 +208,9 @@ If the projects, guides, or blog posts have helped you, consider supporting:
 | Blog | [cloudsecop.net](https://cloudsecop.net) — *Things Worth Sharing* |
 | AWS Learning Hub | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com) |
 | GitHub | [@vanhoangkha](https://github.com/vanhoangkha) |
+| LinkedIn | [linkedin.com/in/vanhoangkha](https://www.linkedin.com/in/vanhoangkha/) |
 | X (Twitter) | [@WorkKhavan](https://twitter.com/WorkKhavan) |
+| Email | [khavan.work@gmail.com](mailto:khavan.work@gmail.com) |
 
 Open to collaboration on cloud security engineering, Zero Trust rollouts, technical education, and community initiatives.
 
