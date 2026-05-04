@@ -172,8 +172,17 @@ Recent deep-dives from **[cloudsecop.net](https://cloudsecop.net)** — the *Zer
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhoangkha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhoangkha&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanhoangkha&theme=default" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanhoangkha&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanhoangkha&theme=default" alt="Most Commit Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanhoangkha&theme=default" alt="Repos Per Language" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanhoangkha&theme=default&utcOffset=7" alt="Productive Time" height="165"/>
 </p>
 
 <p align="center">
