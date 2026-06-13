@@ -31,6 +31,8 @@ Cloud Security Engineer based in Ho Chi Minh City, working at the intersection o
 
 ## Featured Projects
 
+For a cleaner navigation experience, start with the repositories below. The larger workshop collection is indexed separately in [AWS First Cloud Journey](https://github.com/vanhoangkha/aws-first-cloud-journey/blob/main/WORKSHOP_INDEX.md).
+
 ### Security & IAM
 
 | Project | Description |
@@ -57,6 +59,16 @@ Cloud Security Engineer based in Ho Chi Minh City, working at the intersection o
 | [aws-first-cloud-journey](https://github.com/vanhoangkha/aws-first-cloud-journey) | Complete beginner-to-professional AWS learning path with hands-on labs |
 | [aws-free-tier-optimization-guide](https://github.com/vanhoangkha/aws-free-tier-optimization-guide) | Practical cost-optimization playbook for the AWS Free Tier |
 | [aws-community-event-handbook](https://github.com/vanhoangkha/aws-community-event-handbook) | Best practices for organizing large-scale community tech events (1,500+ attendees) |
+
+## Repository Map
+
+| Area | Start Here |
+| --- | --- |
+| Cloud security engineering | [aws-iam-access-key-auto-rotation](https://github.com/vanhoangkha/aws-iam-access-key-auto-rotation), [aws-security-patterns](https://github.com/vanhoangkha/aws-security-patterns), [awesome-aws-security](https://github.com/vanhoangkha/awesome-aws-security) |
+| Kubernetes and automation | [n8n-on-aws-eks](https://github.com/vanhoangkha/n8n-on-aws-eks), [workload-identity-federation-guide](https://github.com/vanhoangkha/workload-identity-federation-guide) |
+| Learning platforms | [cloudsecop-platform-mvp](https://github.com/vanhoangkha/cloudsecop-platform-mvp), [aws-certification-prep-app](https://github.com/vanhoangkha/aws-certification-prep-app) |
+| AWS workshops | [AWS First Cloud Journey workshop index](https://github.com/vanhoangkha/aws-first-cloud-journey/blob/main/WORKSHOP_INDEX.md) |
+| Cost optimization | [aws-free-tier-optimization-guide](https://github.com/vanhoangkha/aws-free-tier-optimization-guide), [sample-costminimizer](https://github.com/vanhoangkha/sample-costminimizer) |
 
 ## Writing
 
