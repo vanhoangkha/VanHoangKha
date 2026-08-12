@@ -1,91 +1,115 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=180&section=header&text=Van%20Hoang%20Kha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20AWS%20Community%20Builder%20%7C%20Zero%20Trust%20Practitioner&descAlignY=62&descSize=14" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=180&section=header&text=Van%20Hoang%20Kha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cloud%20Security%20Engineer%20%7C%20Multi-Cloud%20Security%20%7C%20Zero%20Trust%20%7C%20Workload%20Identity&descAlignY=62&descSize=14" alt="Header"/>
 </p>
 
 <p align="center">
-  <a href="https://cloudsecop.net">
-    <img src="https://img.shields.io/badge/Blog-cloudsecop.net-0A66C2?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://cloudjourney.awsstudygroup.com">
-    <img src="https://img.shields.io/badge/AWS%20Learning%20Hub-First%20Cloud%20Journey-FF9900?style=flat-square" alt="AWS Learning Hub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vanhoangkha/">
-    <img src="https://img.shields.io/badge/LinkedIn-vanhoangkha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/WorkKhavan">
-    <img src="https://img.shields.io/badge/X-@WorkKhavan-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:khavan.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khavan.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://cloudsecop.net"><img src="https://img.shields.io/badge/Blog-cloudsecop.net-0A66C2?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.linkedin.com/in/vanhoangkha/"><img src="https://img.shields.io/badge/LinkedIn-vanhoangkha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://cloudjourney.awsstudygroup.com"><img src="https://img.shields.io/badge/AWS%20Learning%20Hub-First%20Cloud%20Journey-FF9900?style=flat-square" alt="AWS Learning Hub"/></a>
+  <a href="https://twitter.com/WorkKhavan"><img src="https://img.shields.io/badge/X-@WorkKhavan-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
-## About
+## Cloud Security Engineering
 
-Cloud Security Engineer based in Ho Chi Minh City, working at the intersection of cloud infrastructure, security, and community enablement. I design and automate security on AWS — IAM, least privilege, Zero Trust — and turn that field experience into open workshops, reference architectures, and long-form write-ups that have reached **45,000+ learners** across Vietnam and APAC.
+I work on security architecture and engineering across **AWS, Azure, GCP, Cloudflare, Huawei Cloud, and Yandex Cloud**, with a focus on identity, network security, cloud-native workloads, Zero Trust, and security automation.
 
-- **Building** — Zero Trust reference architectures on Cloudflare One and AWS
-- **Writing** — the [*Zero Trust on Cloudflare One*](https://cloudsecop.net) series: Access, Gateway, CASB, DLP, RBI, DEX, and SIEM integration
-- **Leading** — [AWS First Cloud Journey](https://cloudjourney.awsstudygroup.com), AWS User Group Vietnam, and MongoDB User Group Vietnam
-- **Exploring** — AI-driven IAM policy generation, cross-cloud workload identity, and LLM-assisted security operations
+My engineering approach is centered on **short-lived identity, least privilege, defense in depth, measurable security controls, and infrastructure as code**.
 
-## Featured Projects
+### Focus Areas
 
-For a cleaner navigation experience, start with the repositories below. The larger workshop collection is indexed separately in [AWS First Cloud Journey](https://github.com/vanhoangkha/aws-first-cloud-journey/blob/main/WORKSHOP_INDEX.md).
-
-### Security & IAM
-
-| Project | Description |
+| Domain | Engineering focus |
 | --- | --- |
-| [aws-iam-access-key-auto-rotation](https://github.com/vanhoangkha/aws-iam-access-key-auto-rotation) | Automated IAM access key rotation with Lambda, SNS notifications, and compliance tracking |
-| [aws-iam-accessadvisor-permissionboundary](https://github.com/vanhoangkha/aws-iam-accessadvisor-permissionboundary) | Least-privilege enforcement driven by AWS Step Functions and Access Advisor |
-| [aws-iam-access-analyzer-solution](https://github.com/vanhoangkha/aws-iam-access-analyzer-solution) | Automated external-access detection and remediation |
-| [aws-security-patterns](https://github.com/vanhoangkha/aws-security-patterns) | Production-ready AWS security architectures in Terraform |
-| [awesome-aws-security](https://github.com/vanhoangkha/awesome-aws-security) | Curated collection of AWS security resources |
+| **Cloud Security Architecture** | Landing zones, shared security services, segmentation, centralized inspection, guardrails |
+| **IAM & Workload Identity** | OIDC, federation, IAM Roles Anywhere, CIEM, ABAC, permission boundaries, short-lived credentials |
+| **Zero Trust / SASE** | ZTNA, device posture, identity-aware access, policy enforcement, SIEM integration |
+| **Kubernetes & Container Security** | EKS/Kubernetes hardening, workload identity, supply chain, runtime security, network policy |
+| **CNAPP / CSPM / CWPP** | posture management, attack paths, exposure analysis, workload protection, cloud detection |
+| **Cloud Network Security** | egress control, NGFW, WAF, VPC/VNet segmentation, Transit Gateway, hybrid networking |
+| **DevSecOps / IaC Security** | Terraform, policy-as-code, CI security gates, secret scanning, SAST/SCA, automated validation |
 
-### Infrastructure & Automation
+```mermaid
+flowchart LR
+    A[Cloud Platforms] --> B[Identity & Trust]
+    A --> C[Network Security]
+    A --> D[Cloud-Native Workloads]
+    B --> E[Zero Trust]
+    C --> E
+    D --> F[CNAPP / Detection]
+    E --> G[Security Automation]
+    F --> G
+```
 
-| Project | Description |
+## Selected Engineering Work
+
+### Security Architecture & IAM
+
+| Project | What it demonstrates |
 | --- | --- |
-| [n8n-on-aws-eks](https://github.com/vanhoangkha/n8n-on-aws-eks) | Reference deployment for n8n workflow automation on Amazon EKS |
-| [workload-identity-federation-guide](https://github.com/vanhoangkha/workload-identity-federation-guide) | Keyless cross-cloud authentication: AWS to Google Cloud Workload Identity Federation |
-| [cloudsecop-platform-mvp](https://github.com/vanhoangkha/cloudsecop-platform-mvp) | Cloud security operations learning platform on AWS Amplify |
-| [aws-certification-prep-app](https://github.com/vanhoangkha/aws-certification-prep-app) | Interactive practice tests and progress tracking for AWS certification exams |
+| [aws-security-patterns](https://github.com/vanhoangkha/aws-security-patterns) | AWS security reference architectures and reusable security patterns |
+| [workload-identity-federation-guide](https://github.com/vanhoangkha/workload-identity-federation-guide) | Keyless cross-cloud authentication and workload identity federation |
+| [aws-iam-accessadvisor-permissionboundary](https://github.com/vanhoangkha/aws-iam-accessadvisor-permissionboundary) | Least-privilege automation using Access Advisor and permission boundaries |
+| [aws-iam-access-analyzer-solution](https://github.com/vanhoangkha/aws-iam-access-analyzer-solution) | External-access detection and IAM exposure analysis |
 
-### Learning & Community
+### Kubernetes, Containers & Cloud-Native Security
 
-| Project | Description |
+| Project | What it demonstrates |
 | --- | --- |
-| [aws-first-cloud-journey](https://github.com/vanhoangkha/aws-first-cloud-journey) | Complete beginner-to-professional AWS learning path with hands-on labs |
-| [aws-free-tier-optimization-guide](https://github.com/vanhoangkha/aws-free-tier-optimization-guide) | Practical cost-optimization playbook for the AWS Free Tier |
-| [aws-community-event-handbook](https://github.com/vanhoangkha/aws-community-event-handbook) | Best practices for organizing large-scale community tech events (1,500+ attendees) |
+| [container-security-series](https://github.com/vanhoangkha/container-security-series) | Container image security, runtime protection, Kubernetes hardening, supply-chain security and Zero Trust |
+| [n8n-on-aws-eks](https://github.com/vanhoangkha/n8n-on-aws-eks) | Production-style Kubernetes deployment and AWS/EKS integration |
+| [aws-eks-blueprints](https://github.com/vanhoangkha/aws-eks-blueprints) | EKS platform patterns and reusable cluster architecture |
 
-## Repository Map
+### Security Platforms & Automation
 
-| Area | Start Here |
+| Project | What it demonstrates |
 | --- | --- |
-| Cloud security engineering | [aws-iam-access-key-auto-rotation](https://github.com/vanhoangkha/aws-iam-access-key-auto-rotation), [aws-security-patterns](https://github.com/vanhoangkha/aws-security-patterns), [awesome-aws-security](https://github.com/vanhoangkha/awesome-aws-security) |
-| Kubernetes and automation | [n8n-on-aws-eks](https://github.com/vanhoangkha/n8n-on-aws-eks), [workload-identity-federation-guide](https://github.com/vanhoangkha/workload-identity-federation-guide) |
-| Learning platforms | [cloudsecop-platform-mvp](https://github.com/vanhoangkha/cloudsecop-platform-mvp), [aws-certification-prep-app](https://github.com/vanhoangkha/aws-certification-prep-app) |
-| AWS workshops | [AWS First Cloud Journey workshop index](https://github.com/vanhoangkha/aws-first-cloud-journey/blob/main/WORKSHOP_INDEX.md) |
-| Cost optimization | [aws-free-tier-optimization-guide](https://github.com/vanhoangkha/aws-free-tier-optimization-guide), [sample-costminimizer](https://github.com/vanhoangkha/sample-costminimizer) |
+| [cloudsecop-platform-mvp](https://github.com/vanhoangkha/cloudsecop-platform-mvp) | Cloud security operations platform experimentation |
+| [aws-iam-access-key-auto-rotation](https://github.com/vanhoangkha/aws-iam-access-key-auto-rotation) | IAM credential lifecycle automation and compliance controls |
+| [aws-certification-prep-app](https://github.com/vanhoangkha/aws-certification-prep-app) | Full-stack AWS application and automation patterns |
 
-## Writing
+## Open-Source Security Contributions
 
-Recent deep-dives from the *Zero Trust on Cloudflare One* series at [cloudsecop.net](https://cloudsecop.net):
+I contribute security research, tooling, and cloud hardening patterns upstream where possible.
 
-| Topic | Summary |
-| --- | --- |
-| **DLP** | From 55% false positives to a 3% steady state: regex, Luhn, context, and EDM |
-| **Email Security** | Blocking phishing and BEC; the DMARC forwarder problem most docs do not explain |
-| **CASB** | Posture management for Google Workspace, Microsoft 365, and Salesforce |
-| **Device Posture** | Continuous verification — from login-time checks to every-request enforcement |
-| **Logs Pipeline** | End-to-end: Logpush, R2, SIEM, and cross-layer correlation |
+- **Wiz Open Cloud Vulnerability Database** — contributions covering AWS, Azure, and GCP vulnerabilities, plus validation tooling.
+- **Yandex Cloud Security Solutions Library** — VM metadata hardening and Terraform-based reference implementation.
+- **Prowler ecosystem** — experimentation around security graph, attack paths, CIEM, CWPP, DSPM, and cloud detection capabilities.
 
-## Roles & Certifications
+## Security Engineering Principles
+
+```text
+Identity first
+    ↓
+Short-lived credentials
+    ↓
+Least privilege + explicit trust boundaries
+    ↓
+Network and workload segmentation
+    ↓
+Continuous posture and runtime visibility
+    ↓
+Detection, response and automated remediation
+```
+
+I prefer designs that are **auditable, reversible, automatable, and measurable** rather than relying on static credentials or manual operational controls.
+
+## Writing & Research
+
+Recent areas I write and experiment with:
+
+- Workload identity and keyless authentication
+- Zero Trust and Cloudflare One
+- Kubernetes and container security
+- IAM least privilege and cloud authorization
+- CNAPP, attack paths, CSPM and workload protection
+- Multi-cloud network security and centralized egress inspection
+- AI-assisted cloud security operations
+
+Technical notes and long-form posts: [cloudsecop.net](https://cloudsecop.net)
+
+## Certifications & Community
 
 - **AWS Community Builder** — Security category
-- **Leader**, AWS User Group Vietnam — founder of [AWS First Cloud Journey](https://cloudjourney.awsstudygroup.com)
+- **Leader**, AWS User Group Vietnam
 - **Leader**, MongoDB User Group Vietnam
 - **Organizer & speaker**, AWS Community Day Vietnam
 
@@ -98,40 +122,36 @@ Recent deep-dives from the *Zero Trust on Cloudflare One* series at [cloudsecop.
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
 </p>
 
-## Tech Stack
+## Community & Learning
+
+| Project | Scope |
+| --- | --- |
+| [aws-first-cloud-journey](https://github.com/vanhoangkha/aws-first-cloud-journey) | Hands-on AWS learning path, workshops and certification resources |
+| [aws-free-tier-optimization-guide](https://github.com/vanhoangkha/aws-free-tier-optimization-guide) | Practical AWS cost-optimization guide |
+| [aws-community-event-handbook](https://github.com/vanhoangkha/aws-community-event-handbook) | Community event operating practices and reusable guidance |
+
+## Technology
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanhoangkha&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanhoangkha&theme=default" alt="Most Used Languages" height="165"/>
 </p>
 
 ## Contact
 
-| Channel | Link |
-| --- | --- |
-| Blog | [cloudsecop.net](https://cloudsecop.net) — *Things Worth Sharing* |
-| AWS Learning Hub | [cloudjourney.awsstudygroup.com](https://cloudjourney.awsstudygroup.com) |
-| LinkedIn | [linkedin.com/in/vanhoangkha](https://www.linkedin.com/in/vanhoangkha/) |
-| X (Twitter) | [@WorkKhavan](https://twitter.com/WorkKhavan) |
-| Email | [khavan.work@gmail.com](mailto:khavan.work@gmail.com) |
+- [LinkedIn](https://www.linkedin.com/in/vanhoangkha/)
+- [cloudsecop.net](https://cloudsecop.net)
+- [AWS First Cloud Journey](https://cloudjourney.awsstudygroup.com)
+- [X / Twitter](https://twitter.com/WorkKhavan)
 
-Open to collaboration on cloud security engineering, Zero Trust rollouts, technical education, and speaking engagements.
+Open to collaboration on **cloud security engineering, workload identity, Zero Trust, Kubernetes security, cloud-native security platforms, and technical community initiatives**.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=100&section=footer" alt="Footer"/>
